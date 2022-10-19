@@ -16,6 +16,9 @@ public class trailtwo {
     public static void printme1() {
     	
     	System.out.println("Test");
+    	System.out.println("Test1");
+    	System.out.println("Test2");
+    	System.out.println("Test3");
 }
     
     public static void printme2() {
